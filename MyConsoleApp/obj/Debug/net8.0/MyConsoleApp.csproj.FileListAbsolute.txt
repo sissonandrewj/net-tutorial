@@ -1,0 +1,14 @@
+/Users/sissona/Documents/Projects/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/Users/sissona/Documents/Projects/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/Users/sissona/Documents/Projects/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/Users/sissona/Documents/Projects/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/Users/sissona/Documents/Projects/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/Users/sissona/Documents/Projects/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
